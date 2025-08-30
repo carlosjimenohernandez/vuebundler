@@ -1,0 +1,25 @@
+{
+  "name": "@allnulled/vuebundler",
+  "version": "1.0.0",
+  "description": "Like simplebundler but using a *.js list file instead of a directory",
+  "main": "vuebundler.js",
+  "bin": {
+    "vuebundler": "vuebundler.bin.js"
+  },
+  "scripts": {
+    "build": "echo 'no building for @allnulled/vuebundler'",
+    "test": "npx mocha --bail test/test.js",
+    "versionate": "echo 'no versionate for @allnulled/vuebundler'"
+  },
+  "keywords": [
+    "bundler",
+    "html",
+    "css",
+    "js",
+    "vue",
+    "no-webpack",
+    "simple"
+  ],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
