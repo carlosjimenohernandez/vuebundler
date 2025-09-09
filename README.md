@@ -9,7 +9,7 @@ But, you know. No webpack or shit.
 ## Install
 
 ```sh
-npm i -g @allnulled/vuebundler
+npm i -g @carlosjimenohernandez/vuebundler
 ```
 
 ## Usage by CLI
@@ -88,4 +88,3 @@ The last step is to generate the `output.js` and `output.css`. The bundler uses 
 
 This way, only providing the `.js` name, the `.css` name is overstood.
 
-# vuebundler
